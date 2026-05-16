@@ -1,0 +1,6 @@
+git add. 
+git congig
+git status 
+git -- list
+git Branch 
+git push
