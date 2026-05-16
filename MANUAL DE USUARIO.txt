@@ -1,0 +1,27 @@
+INICIO 
+//Variables N-- 0 Pacientes-- lista vacía turno-- 1
+//Solicitar cantidad de pacientes 
+Escribir cuantos pacientes desea registrar
+LEER N 
+Registrar cada paciente 
+Para i Desde 1 Hasta N 
+Escribir " Paciente N1 NOMBRE "
+LEER Nombre 
+Escribir Apellido 1 
+LEER Apellido 
+Escribir Apellido 2
+LEER Apellido 
+Escribir ingresar año de nacimiento
+LEER Año de nacimiento 
+Escribir genero 
+LEER Genero 
+
+FUNCION 
+//ASIGNAR TURNO DE ESPERA
+NOMBRE 
+APELLIDOS
+EDAD 
+GENERO 
+FUNCION 
+//MOSTRAR LISTA DE PACIENTES EN ESPERA//
+FIN 

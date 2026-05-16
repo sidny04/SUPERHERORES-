@@ -1,0 +1,11 @@
+INICIO
+FUNCION Registrar Superhéroe (9)
+ESCRIBIR : Ingresar "Nombre identidad Secreta 
+LEER Identidad 
+Registrar superpoderes 
+//Solicitar N cantidad de superpoderes//
+FUNCION Solicitar superpoderes (9)
+Escribir Solicitar cuantos superpoderes desea registrar
+LEER N , Superpoderes 
+PARA (i) desde 1 hasta N Hacer (.) poderes (i) 
+FIN 
